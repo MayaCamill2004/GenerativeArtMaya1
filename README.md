@@ -1,0 +1,2 @@
+# GenerativeArtMaya1
+Assignment 
